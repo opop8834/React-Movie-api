@@ -1,0 +1,271 @@
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+body,
+canvas,
+caption,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+output,
+p,
+pre,
+q,
+ruby,
+s,
+samp,
+section,
+small,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+time,
+tr,
+tt,
+u,
+ul,
+var,
+video {
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:after,
+blockquote:before,
+q:after,
+q:before {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+a {
+  text-decoration: none;
+}
+.Logo_bg__NcFre {
+  margin: 0 auto;
+  width: 10%;
+}
+.Logo_bg__NcFre .Logo_bg_img__EzUyd {
+  display: block;
+  width: 100%;
+}
+.Detail_logo__njPgw {
+  background-color: #121211;
+}
+.Detail_container__hftm\+ {
+  background-color: #121211;
+  height: 100vh;
+}
+.Detail_container__hftm\+ .Detail_loading__LOC0O {
+  color: #fff;
+  font-size: 30px;
+  margin: 0 auto;
+}
+.Detail_container__hftm\+ .Detail_container_box__TAQpS {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 60%;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I {
+  color: hsla(0, 0%, 96%, 0.911);
+  padding: 20px;
+  width: 40%;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_title__Crw2H {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_movie_time__JLSrB {
+  margin-bottom: 7px;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_download__qpjbR,
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_like__OiP4n,
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_rating__BAPrP {
+  margin-bottom: 7px;
+  text-transform: uppercase;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_genres__9eAzm {
+  margin-bottom: 7px;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_description__It7Kd {
+  line-height: 1.4;
+}
+.Detail_container__hftm\+
+  .Detail_container_box__TAQpS
+  .Detail_text_box__7g4\+I
+  .Detail_traiiler__B0SYe {
+  height: 30vh;
+  margin-top: 20px;
+  width: 100%;
+}
+.Movie_container__h6AH\+ {
+  background-color: transparent;
+  background-color: initial;
+  border: 1px solid hsla(0, 0%, 100%, 0.1);
+  border-radius: 3%;
+  box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.637);
+  box-sizing: border-box;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  height: auto;
+  margin: 50px 0;
+  padding: 20px;
+  text-align: center;
+  width: 30%;
+}
+.Movie_container__h6AH\+:hover {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+  transition: all 0.4s;
+}
+.Movie_container__h6AH\+ .Movie_poster__PeQu5 {
+  margin-bottom: 20px;
+  width: 100%;
+}
+.Movie_container__h6AH\+ .Movie_title__eXEmb {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 300;
+}
+.Movie_container__h6AH\+ .Movie_title__eXEmb:hover {
+  color: #6abf45be;
+  transition: all 0.4s;
+}
+.Movie_container__h6AH\+ .Movie_time__QGgra {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 100;
+  margin-top: 20px;
+}
+.Movie_container__h6AH\+ .Movie_genres__TlC8P {
+  color: #fff;
+  font-weight: 300;
+  margin-top: 20px;
+}
+.Home_container__s7675,
+.Home_logo__dWmNe {
+  background-color: #121211;
+}
+.Home_container__s7675 {
+  display: flex;
+}
+.Home_container__s7675 .Home_box__C1485 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 50%;
+}
+.Home_container__s7675 .Home_loading__bYagE {
+  color: #fff;
+  font-size: 30px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=main.704e13f3.css.map*/
